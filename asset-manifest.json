@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20368141.css",
+    "main.js": "/static/js/main.429893b9.js",
+    "static/css/64.c665fe61.chunk.css": "/static/css/64.c665fe61.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/css/769.e4be9e1c.chunk.css": "/static/css/769.e4be9e1c.chunk.css",
+    "static/js/769.5aef6de9.chunk.js": "/static/js/769.5aef6de9.chunk.js",
+    "static/media/hkulogo.png": "/static/media/hkulogo.a9ffcae4cb2242070d8c.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/static/media/resume.914f57ca829f452f802d.pdf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/esadelogo.png": "/static/media/esadelogo.b536bde1818213e66656.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/no-photo.png": "/static/media/no-photo.a780c6c4bccf803c42b2.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/index.html",
+    "static/media/cplus.svg": "/static/media/cplus.ee408f7fb3380efa42ae4cbe5b44ea2d.svg",
+    "static/media/cplus_dark.svg": "/static/media/cplus_dark.46129359b8bb680841c9c8cbb0bfeb64.svg",
+    "static/media/cplus_hover.svg": "/static/media/cplus_hover.13e94c9d2399a890ee93609e6cf663af.svg",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.20368141.css.map": "/static/css/main.20368141.css.map",
+    "main.429893b9.js.map": "/static/js/main.429893b9.js.map",
+    "64.c665fe61.chunk.css.map": "/static/css/64.c665fe61.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "769.e4be9e1c.chunk.css.map": "/static/css/769.e4be9e1c.chunk.css.map",
+    "769.5aef6de9.chunk.js.map": "/static/js/769.5aef6de9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20368141.css",
+    "static/js/main.429893b9.js"
+  ]
+}
