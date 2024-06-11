@@ -39,6 +39,13 @@
   height: auto;
 }
 
+/* Media Query */
+@media (max-width: 1380px) {
+  .travel-header-text {
+    font-size: 40px;
+  }
+}
+
 @media (max-width: 768px) {
   .travel-header-text {
     font-size: 30px;
