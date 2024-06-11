@@ -310,6 +310,18 @@ const talkSection = {
   display: false // Set false to hide this section, defaults to true
 };
 
+// Travel Sections
+
+const travelSection = {
+  title: emoji("Travel 🌍"),
+  subtitle: "I am addicted to travelling! I love to explore and experience new culture.",
+  base:emoji("📍 Based in 🇭🇰"),
+  travelled:emoji("✈️ Travelled to 🇹🇼 🇹🇭 🇯🇵 🇨🇳 🇲🇴 🇪🇸 🇵🇹 🇫🇷 🇩🇪 🇸🇪 🇲🇦 🇨🇿 🇦🇹 🇭🇺 🇦🇩"),
+  favourite:emoji("❤️ Favourite cities: Barcelona, Osaka, Kyoto"),
+  bucket:emoji("📝 Bucket list: Argentina, Brazil, Iceland ..."),
+  display: true // Set false to hide this section, defaults to true
+};
+
 // Podcast Section
 
 const podcastSection = {
@@ -362,6 +374,7 @@ export {
   achievementSection,
   blogSection,
   talkSection,
+  travelSection,
   podcastSection,
   contactInfo,
   twitterDetails,

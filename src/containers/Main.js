@@ -10,6 +10,7 @@ import Achievement from "./achievement/Achievement";
 import Blogs from "./blogs/Blogs";
 import Footer from "../components/footer/Footer";
 import Talks from "./talks/Talks";
+import Travel from "./travel/Travels";
 import Podcast from "./podcast/Podcast";
 import Education from "./education/Education";
 import ScrollToTopButton from "./topbutton/Top";
@@ -61,6 +62,7 @@ const Main = () => {
             <Achievement />
             <Blogs />
             <Talks />
+            <Travel />
             <Twitter />
             <Podcast />
             <Profile />
