@@ -80,10 +80,12 @@
 
 .bullet {
   color: $subTitle;
+  margin-bottom: 0.2rem;
 }
 
 .bullet-dark {
   color: $subTitleDark;
+  margin-bottom: 0.2rem;
 }
 
 /* Media Query */
@@ -116,6 +118,15 @@
     margin-bottom: 0.5rem;
     margin-right: 0px;
   }
+  .bullet {
+    color: $subTitle;
+    margin-bottom: 0.2rem;
+  }
+  
+  .bullet-dark {
+    color: $subTitleDark;
+    margin-bottom: 0.2rem;
+  }
 }
 
 @media (max-width: 768px) {
@@ -138,5 +149,14 @@
   .education-text-bullets > ul {
     max-width: 80%;
     margin: auto;
+  }
+  .bullet {
+    color: $subTitle;
+    margin-top: 0.8rem;
+  }
+  
+  .bullet-dark {
+    color: $subTitleDark;
+    margin-top: 0.8rem;
   }
 }
