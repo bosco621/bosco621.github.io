@@ -248,6 +248,10 @@ const achievementSection = {
         {
           name: "Certification",
           url: "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=245&backb=1"
+        },
+        {
+          name: "Announcement",
+          url: "https://www.skylee.hku.hk/copy-of-news#comp-lbfh9eb3"
         }
       ]
     }
