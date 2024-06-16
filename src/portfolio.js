@@ -116,7 +116,7 @@ const educationInfo = {
       logo: require("./assets/images/hkulogo.png"),
       subHeader: "Bachelor of Science in Quantitative Finance",
       duration: "September 2020 - December 2024",
-      desc: "Attained a CGPA of 3.50/4.3",
+      desc: "Attained a CGPA of 3.58/4.3",
       descBullets: [
         "Awarded the Sola Gratia Foundation Scholarship in 2023",
         "Resided in Simon K. Y. Lee Hall, Activities: Floor Representative, Team Captain of Basketball Team and Lacrosse Team"
@@ -139,7 +139,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Statistical & Financial Modelling", //Insert stack or technology you have experience in
@@ -154,7 +154,7 @@ const techStack = {
       progressPercentage: "50%"
     }
   ],
-  displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
