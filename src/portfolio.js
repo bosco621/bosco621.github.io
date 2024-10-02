@@ -281,7 +281,7 @@ const blogSection = {
     },
     {
       url: "https://bosco621.github.io/Data-Analytics-Visualization-in-Financial-Statement-Analysis/",
-      title: 'Financial Analysis of Grab Holdings"',
+      title: 'Financial Analysis of Grab Holdings',
       description:
         "The objectives of this financial analysis are to understand the financial health of Grab Holdings, identify potential issues or opportunities, and facilitate the decision-making process."
     },
