@@ -281,7 +281,7 @@ const blogSection = {
     },
     {
       url: "https://bosco621.github.io/Data-Analytics-Visualization-in-Financial-Statement-Analysis/",
-      title: 'Encounter, Analyze, and Solve (by Group "Textonomy")',
+      title: 'Financial Analysis of Grab Holdings"',
       description:
         "The objectives of this financial analysis are to understand the financial health of Grab Holdings, identify potential issues or opportunities, and facilitate the decision-making process."
     },
@@ -320,7 +320,7 @@ const travelSection = {
   title: emoji("Travel 🌍"),
   subtitle: "I am addicted to travelling! I love to explore and experience new culture.",
   base:emoji("📍 Based in 🇭🇰"),
-  travelled:emoji("✈️ Travelled to 🇹🇼 🇹🇭 🇯🇵 🇨🇳 🇲🇴 🇪🇸 🇵🇹 🇫🇷 🇮🇹 🇩🇪 🇸🇪 🇲🇦 🇨🇿 🇦🇹 🇭🇺 🇦🇩"),
+  travelled:emoji("✈️ Travelled to 🇹🇼 🇹🇭 🇯🇵 🇨🇳 🇲🇴 🇪🇸 🇵🇹 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇸🇪 🇲🇦 🇨🇿 🇦🇹 🇭🇺 🇦🇩"),
   favourite:emoji("❤️ Favourite cities: Barcelona, Osaka, Kyoto"),
   bucket:emoji("📝 Bucket list: Argentina, Brazil, Iceland ..."),
   display: true // Set false to hide this section, defaults to true
