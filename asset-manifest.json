@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d30f74a.css",
-    "main.js": "/static/js/main.08c2d220.js",
+    "main.css": "/static/css/main.4e53e2ce.css",
+    "main.js": "/static/js/main.11182855.js",
     "static/css/64.c665fe61.chunk.css": "/static/css/64.c665fe61.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.e4be9e1c.chunk.css": "/static/css/769.e4be9e1c.chunk.css",
     "static/js/769.5aef6de9.chunk.js": "/static/js/769.5aef6de9.chunk.js",
-    "static/media/flight_dark.png": "/static/media/flight_dark.a27f652572c3af65f6a2.png",
-    "static/media/flight.png": "/static/media/flight.02890622b393c584808e.png",
+    "static/media/flight_dark.png": "/static/media/flight_dark.6e24f86b12339d6799a5.png",
+    "static/media/flight.png": "/static/media/flight.9ad499d0e7f9a219277a.png",
     "static/media/hkulogo.png": "/static/media/hkulogo.a9ffcae4cb2242070d8c.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/skyLogo.jpeg": "/static/media/skyLogo.d45dfeab06bd8bb38e86.jpeg",
-    "static/media/resume.pdf": "/static/media/resume.b27f6477af7b117e6a57.pdf",
+    "static/media/resume.pdf": "/static/media/resume.e79695b24675306ad7e6.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/esadelogo.png": "/static/media/esadelogo.b536bde1818213e66656.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -26,15 +25,15 @@
     "static/media/cplus_dark.svg": "/static/media/cplus_dark.46129359b8bb680841c9c8cbb0bfeb64.svg",
     "static/media/cplus_hover.svg": "/static/media/cplus_hover.13e94c9d2399a890ee93609e6cf663af.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.2d30f74a.css.map": "/static/css/main.2d30f74a.css.map",
-    "main.08c2d220.js.map": "/static/js/main.08c2d220.js.map",
+    "main.4e53e2ce.css.map": "/static/css/main.4e53e2ce.css.map",
+    "main.11182855.js.map": "/static/js/main.11182855.js.map",
     "64.c665fe61.chunk.css.map": "/static/css/64.c665fe61.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.e4be9e1c.chunk.css.map": "/static/css/769.e4be9e1c.chunk.css.map",
     "769.5aef6de9.chunk.js.map": "/static/js/769.5aef6de9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d30f74a.css",
-    "static/js/main.08c2d220.js"
+    "static/css/main.4e53e2ce.css",
+    "static/js/main.11182855.js"
   ]
 }
