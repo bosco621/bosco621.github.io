@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4e53e2ce.css",
-    "main.js": "/static/js/main.d7f00e5c.js",
+    "main.js": "/static/js/main.65b16943.js",
     "static/css/64.c665fe61.chunk.css": "/static/css/64.c665fe61.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.e4be9e1c.chunk.css": "/static/css/769.e4be9e1c.chunk.css",
     "static/js/769.5aef6de9.chunk.js": "/static/js/769.5aef6de9.chunk.js",
-    "static/media/flight_dark.png": "/static/media/flight_dark.6e24f86b12339d6799a5.png",
-    "static/media/flight.png": "/static/media/flight.9ad499d0e7f9a219277a.png",
+    "static/media/flight_dark.png": "/static/media/flight_dark.df357402eb3d1fe0a933.png",
+    "static/media/flight.png": "/static/media/flight.300a950af4ee2c09de86.png",
     "static/media/hkulogo.png": "/static/media/hkulogo.a9ffcae4cb2242070d8c.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/resume.pdf": "/static/media/resume.e79695b24675306ad7e6.pdf",
+    "static/media/resume.pdf": "/static/media/resume.e68f4f9fd82fdc62cb25.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/esadelogo.png": "/static/media/esadelogo.b536bde1818213e66656.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
-    "static/media/no-photo.png": "/static/media/no-photo.a780c6c4bccf803c42b2.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
@@ -26,7 +25,7 @@
     "static/media/cplus_hover.svg": "/static/media/cplus_hover.13e94c9d2399a890ee93609e6cf663af.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.4e53e2ce.css.map": "/static/css/main.4e53e2ce.css.map",
-    "main.d7f00e5c.js.map": "/static/js/main.d7f00e5c.js.map",
+    "main.65b16943.js.map": "/static/js/main.65b16943.js.map",
     "64.c665fe61.chunk.css.map": "/static/css/64.c665fe61.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.e4be9e1c.chunk.css.map": "/static/css/769.e4be9e1c.chunk.css.map",
@@ -34,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.4e53e2ce.css",
-    "static/js/main.d7f00e5c.js"
+    "static/js/main.65b16943.js"
   ]
 }
